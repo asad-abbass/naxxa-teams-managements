@@ -1,0 +1,42 @@
+.mainContainer{
+    display: block;
+    text-align: center;
+    border: 1px solid #e3e3e3;
+    padding: 32px;
+    margin: 60px auto;
+    width: 50%;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 20%);
+}
+.inputMain{
+    border-radius: 5px;
+    display: block;
+    padding: 3px;
+    align-items: center;
+}
+.input{
+    display: block;
+    width: 85%;
+    text-align: initial;
+    align-items: initial;
+    padding: 6px;
+    margin: 0 5px;
+    border-radius: 5px;
+    border: 1px solid #d0d0d0;
+    float: left;
+}
+.label{
+    font-size: 14px;
+    padding: 0 5px;
+    width: 100%;
+    display: block;
+    text-align: initial;
+    margin: 5px 0;
+}
+svg{
+    color: #1997d4;
+    font-size: 25px;
+}
+.initialHeading{
+    margin: 0;
+    text-transform: capitalize;
+}

@@ -1,0 +1,17 @@
+.mainDropdown{
+    display: flex;
+    justify-content: initial;
+    align-items: center;
+}
+.buttonSubmit{
+    margin: 12px 20px 0px 0px !important;
+    background-color: #1997d4 !important;
+    color: #fff !important;
+}
+.buttonCancel{
+    margin: 12px 20px 0px 0px !important;
+}
+.formControl{
+    min-width: 140px !important;
+    margin: 0 3% 0 1% !important; 
+}
